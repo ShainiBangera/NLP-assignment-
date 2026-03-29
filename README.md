@@ -1,9 +1,9 @@
-**# NLP Assignment**
+# NLP Assignment
 
 This assignment consists of NLP techniques. It includes text preprocessing and feature engineering to analyze and understand the data.
 
 
-**##Steps Covered**
+## Steps Covered
 
 **1. Text Preprocessing:**
 
@@ -33,6 +33,6 @@ Used K-Means clustering
 Grouped similar sentences into clusters
 
 
-**Conclusion**
+## Conclusion
 
 This project helped in understanding the complete NLP workflow, including preprocessing, feature extraction, and applying machine learning models on text data.

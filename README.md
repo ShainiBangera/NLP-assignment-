@@ -2,6 +2,7 @@
 
 This assignment consists of NLP techniques. It includes text preprocessing and feature engineering to analyze and understand the data.
 
+
 **Steps Covered**
 
 **1. Text Preprocessing:**
@@ -30,6 +31,7 @@ Classified sentences into positive and negative
 
 Used K-Means clustering
 Grouped similar sentences into clusters
+
 
 **Conclusion**
 
